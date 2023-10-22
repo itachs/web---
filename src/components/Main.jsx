@@ -1,4 +1,4 @@
-import Gallary from "./Gallery";
+import Gallery from "./Gallery";
 import Welcom from "./Welcom";
 
 export default function Main() {

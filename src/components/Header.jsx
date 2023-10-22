@@ -1,5 +1,6 @@
 export default function Header() {
     return (
+      <>
       <header>
         <h1>Birdwatching</h1>
         <img src="picture/dove.png" alt="a simple dove logo"
@@ -14,5 +15,6 @@ export default function Header() {
           </ul>
         </nav>
       </header>
+      </>
     );
   }
