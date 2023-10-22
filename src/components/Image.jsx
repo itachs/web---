@@ -1,7 +1,7 @@
 export default function Image() {
     return (
       <>
-       <a href="picture/favorite-1.jpg"><img src="picture/favorite-1_th.jpg" alt="Small black bird, black claws, long black slender beak, links to larger version of the image"
+       <a href="../../../../picture/favorite-1.jpg"><img src="../../../../picture/favorite-1_th.jpg" alt="Small black bird, black claws, long black slender beak, links to larger version of the image"
        /></a>
        <a href="picture/favorite-2.jpg"><img src="picture/favorite-2_th.jpg" alt="Top half of a pretty bird with bright blue plumage on neck, light colored beak, blue headdress, links to larger version of the image"
        /></a>
